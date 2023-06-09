@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\ASUS\\Desktop\\WebDevelopment_level_2\\Modules\\university-management-auth-service\\logs\\winston\\errors\\.78772b4b9868b33b516e792ccf74980daaf22c37-audit.json",
+    "files": [
+        {
+            "date": 1685898530952,
+            "name": "C:\\Users\\ASUS\\Desktop\\WebDevelopment_level_2\\Modules\\university-management-auth-service\\logs\\winston\\errors\\phu-05-06-2023-error.log",
+            "hash": "4ca5b6bd481ea86ba346e8459a406aab06fc513ac1c20377fb710d9486c13b06"
+        },
+        {
+            "date": 1686013251795,
+            "name": "C:\\Users\\ASUS\\Desktop\\WebDevelopment_level_2\\Modules\\university-management-auth-service\\logs\\winston\\errors\\phu-06-06-2023-error.log",
+            "hash": "54030d6f189c390c1adac0a479e6f7d663e30bc324f42acb055f6bc496842e1e"
+        },
+        {
+            "date": 1686268459292,
+            "name": "C:\\Users\\ASUS\\Desktop\\WebDevelopment_level_2\\Modules\\university-management-auth-service\\logs\\winston\\errors\\phu-09-06-2023-error.log",
+            "hash": "9018c8ba6fff65511856638ddb809917ee40828dc22d1000adb2235faadabbd9"
+        }
+    ],
+    "hashType": "sha256"
+}
